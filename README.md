@@ -24,12 +24,3 @@ http://localhost:8501
 - No visible HTML code on the interface
 - No portfolio controls/sidebar
 
-## Files
-
-```text
-app.py
-requirements.txt
-assets/profile_photo.jpeg
-static/auto_cinematic_reel.mp4
-.streamlit/config.toml
-```
